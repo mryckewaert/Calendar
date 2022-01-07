@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
-import "./App.css";
+import Calendar from "./calendar/calendar";
 
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return <Calendar />;
 }
 
 export default App;
